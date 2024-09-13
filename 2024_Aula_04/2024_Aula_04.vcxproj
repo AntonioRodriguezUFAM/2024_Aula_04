@@ -143,7 +143,7 @@
     <ClInclude Include="stb_image\stb_image_write.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Copy_ppm_image.cpp" />
+    <ClCompile Include="Image_filter_green_Multithread_STB.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

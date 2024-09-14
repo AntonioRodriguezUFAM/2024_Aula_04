@@ -147,7 +147,7 @@ int main() {
     image.threadsInvertColors(); // Parallel Code
     std::cout << std::endl;
 
-    image.savePPM("images/out/Parallel_output01.ppm");
+    image.savePPM("images/output/Parallel_output01.ppm");
     std::cout << "--------------------------   Save Image PPM     ----------------------" << std::endl;
     std::cout << std::endl;
     std::cout << "                               Code: END                  " << std::endl;

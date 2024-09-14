@@ -23,7 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Image_PPM_Processing_MultiThreads.cpp">
+    <ClCompile Include="Image_ppm_png_class_parallel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

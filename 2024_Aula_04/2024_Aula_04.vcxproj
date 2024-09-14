@@ -147,7 +147,7 @@
     <ClInclude Include="stb_image\stb_image_write.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Image_PPM_Processing_MultiThreads.cpp" />
+    <ClCompile Include="Image_ppm_png_class_parallel.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -23,7 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Image_filter_green_Multithread_STB.cpp">
+    <ClCompile Include="Image_PPM_Processing_MultiThreads.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
